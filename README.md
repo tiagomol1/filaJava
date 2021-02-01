@@ -2,5 +2,5 @@
 
 Matéria de Orientação a Objetos.
 
-Curso: Engenharia de Software
+Curso: Engenharia de Software.
 Instituição: (PUC) Católica de Santa Catarina.
